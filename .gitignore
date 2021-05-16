@@ -3,3 +3,4 @@ plt.plot(np.arange(epochs),AUC_test,label = 'Test AUC score')
 plt.legend()
 plt.show
 fsg
+Go to Google Colab
