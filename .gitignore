@@ -1,6 +1,1 @@
-plt.plot(np.arange(epochs),AUC_train,label = 'Train AUC score')
-plt.plot(np.arange(epochs),AUC_test,label = 'Test AUC score')
-plt.legend()
-plt.show
-fsg
-Go to Google Colab
+
