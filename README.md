@@ -10,8 +10,13 @@
 ## App tutorial
 - There are 3 kinds of status classification: 
 
-	- Positive
-	- Negative
-	- Neutral
+	- Positivity
+	- Negativity
+	- Neutrality
 	
-- (### Step 1): Enter your comment, feedback ot anything you want to classify the status of that sentence
+- Please follow the steps below to run the appllication
+	- Delete the example sentence wrtitten in the text box
+	- Enter your comment, feedback ot anything you want to classify the status of that sentence
+	- Wait for about 30 seconds
+	- You will see 3 indicators of positivity, negativity and neutrality changes when the text changes
+	
