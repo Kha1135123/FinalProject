@@ -21,5 +21,5 @@
 	- You will see 3 indicators of positivity, negativity and neutrality changes when the text changes
 	
 
-## Note: 
+### Note: 
 - Since Zero-shot learning is applied to the model, it might take a while to run the code
