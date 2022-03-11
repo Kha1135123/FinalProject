@@ -14,4 +14,4 @@
 	- Negative
 	- Neutral
 	
-- ### Step 1: Enter your comment, feedback ot anything you want to classify the status of that sentence
+- (### Step 1): Enter your comment, feedback ot anything you want to classify the status of that sentence
